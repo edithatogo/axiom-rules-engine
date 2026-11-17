@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: If you use this fork, please cite it using these metadata and identify the
+  commit or release used. Upstream attribution is recorded in references.
+title: Axiom Rules Engine
+authors:
+- name: Axiom Rules Engine project
+repository-code: https://github.com/edithatogo/axiom-rules-engine
+url: https://github.com/edithatogo/axiom-rules-engine
+references:
+- type: software
+  title: Axiom Rules Engine
+  authors:
+  - name: Axiom Rules Engine project
+  repository-code: https://github.com/TheAxiomFoundation/axiom-rules-engine
+  url: https://github.com/TheAxiomFoundation/axiom-rules-engine
