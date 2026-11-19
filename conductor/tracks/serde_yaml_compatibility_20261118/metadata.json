@@ -1,0 +1,16 @@
+{
+  "track_id": "serde_yaml_compatibility_20261118",
+  "type": "dependency_qualification",
+  "status": "new",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18",
+  "description": "Serde derive is already the typed data-model mechanism. serde_yaml 0.9 is an active YAML format adapter, not a substitute for Serde itself.",
+  "owners": [
+    "existing maintainers"
+  ],
+  "verification": {
+    "status": "not_run",
+    "commands": []
+  },
+  "capability_status": "planning_only"
+}
